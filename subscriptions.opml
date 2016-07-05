@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>iOS Developer Subscriptions</title>
+	</head>
+	<body>
+		<outline text="Others" title="Others">
+			<outline htmlUrl="http://www.alexcurylo.com" title="Blog – Under The Bridge" xmlUrl="http://www.alexcurylo.com/blog/feed/" type="rss" text="Blog – Under The Bridge"/>
+			<outline htmlUrl="https://www.developereconomics.com" title="Developer Economics" xmlUrl="http://www.developereconomics.com/feed/" type="rss" text="Developer Economics"/>
+			<outline htmlUrl="http://martinfowler.com" title="Martin Fowler" xmlUrl="http://www.martinfowler.com/bliki/bliki.atom" type="rss" text="Martin Fowler"/>
+			<outline htmlUrl="http://wirfs-brock.com/blog" title="The Responsible Designer" xmlUrl="http://wirfs-brock.com/blog/feed/" type="rss" text="The Responsible Designer"/>
+			<outline htmlUrl="https://thinkinginobjects.com" title="Thinking in Objects" xmlUrl="http://thinkinginobjects.com/feed/" type="rss" text="Thinking in Objects"/>
+		</outline>
+		<outline text="iOS" title="iOS">
+			<outline htmlUrl="http://adoptioncurve.net/" title="Adoption Curve Dot Net" xmlUrl="http://adoptioncurve.net/atom.xml" type="rss" text="Adoption Curve Dot Net"/>
+			<outline htmlUrl="http://www.appcoda.com" title="AppCoda" xmlUrl="http://feeds.feedburner.com/appcoda" type="rss" text="AppCoda"/>
+			<outline htmlUrl="http://artsy.github.io/" title="Artsy Engineering" xmlUrl="http://artsy.github.io/feed" type="rss" text="Artsy Engineering"/>
+			<outline htmlUrl="https://cocoa.tumblr.com/" title="Cocoa at Tumblr" xmlUrl="http://cocoa.tumblr.com/rss" type="rss" text="Cocoa at Tumblr"/>
+			<outline htmlUrl="http://www.cocoacontrols.com" title="Cocoa Controls" xmlUrl="http://feeds.feedburner.com/cocoacontrols" type="rss" text="Cocoa Controls"/>
+			<outline htmlUrl="https://www.cocoanetics.com" title="Cocoanetics" xmlUrl="http://www.cocoanetics.com/feed/" type="rss" text="Cocoanetics"/>
+			<outline htmlUrl="http://floriankugler.com/" title="Florian Kugler" xmlUrl="http://floriankugler.com/blog?format=rss" type="rss" text="Florian Kugler"/>
+			<outline htmlUrl="http://grokswift.com/" title="Grok Swift" xmlUrl="https://grokswift.com/feed" type="rss" text="Grok Swift"/>
+			<outline htmlUrl="https://medium.com/ios-os-x-development?source=rss----8c21b9314eea---4" title="iOS App Development — Medium" xmlUrl="https://medium.com/feed/ios-os-x-development" type="rss" text="iOS App Development — Medium"/>
+			<outline htmlUrl="https://ios.james.ooo?source=rss----bb5b7b36dc5d---4" title="iOS Apprentice — Medium" xmlUrl="https://medium.com/feed/ios-apprentice" type="rss" text="iOS Apprentice — Medium"/>
+			<outline htmlUrl="http://iosdevweekly.com/issues" title="iOS Dev Weekly" xmlUrl="http://iosdevweekly.com/issues.rss" type="rss" text="iOS Dev Weekly"/>
+			<outline htmlUrl="http://iosdevtips.co/" title="iOS Development Tips" xmlUrl="http://iosdevtips.tumblr.com/rss" type="rss" text="iOS Development Tips"/>
+			<outline htmlUrl="http://ios-goodies.com/" title="iOS Goodies" xmlUrl="http://ios-goodies.tumblr.com/rss" type="rss" text="iOS Goodies"/>
+			<outline htmlUrl="http://www.ios-blog.co.uk" title="iOS-Blog" xmlUrl="http://www.ios-blog.co.uk/feed/" type="rss" text="iOS-Blog"/>
+			<outline htmlUrl="http://www.scoop.it/t/iphone-and-ipad-development" title="iPhone and iPad development | Scoop.it" xmlUrl="http://www.scoop.it/t/iphone-and-ipad-development/rss.xml" type="rss" text="iPhone and iPad development | Scoop.it"/>
+			<outline htmlUrl="https://blog.jetbrains.com/objc" title="JetBrains AppCode Blog" xmlUrl="http://feeds.feedburner.com/jetbrains_appcode" type="rss" text="JetBrains AppCode Blog"/>
+			<outline htmlUrl="https://littlebitesofcocoa.com" title="Little Bites of Cocoa" xmlUrl="http://littlebitesofcocoa.com/rss" type="rss" text="Little Bites of Cocoa"/>
+			<outline htmlUrl="https://makeapppie.com" title="Making App Pie" xmlUrl="https://makeapppie.com/feed/" type="rss" text="Making App Pie"/>
+			<outline htmlUrl="https://maniacdev.com" title="Maniac Dev" xmlUrl="http://maniacdev.com/feed/" type="rss" text="Maniac Dev"/>
+			<outline htmlUrl="http://masilotti.com/" title="Masilotti.com" xmlUrl="http://masilotti.com/atom.xml" type="rss" text="Masilotti.com"/>
+			<outline htmlUrl="http://www.galloway.me.uk/" title="Matt Galloway" xmlUrl="http://www.galloway.me.uk/atom.xml" type="rss" text="Matt Galloway"/>
+			<outline htmlUrl="https://www.natashatherobot.com" title="Natasha The Robot" xmlUrl="http://natashatherobot.com/feed/" type="rss" text="Natasha The Robot"/>
+			<outline htmlUrl="http://www.mikeash.com/pyblog/" title="NSBlog" xmlUrl="http://www.mikeash.com/pyblog/rss.py" type="rss" text="NSBlog"/>
+			<outline htmlUrl="http://nshipster.com" title="NSHipster" xmlUrl="http://nshipster.com/feed.xml" type="rss" text="NSHipster"/>
+			<outline htmlUrl="http://nsscreencast.com" title="NSScreencast (free videos)" xmlUrl="http://nsscreencast.com/feed" type="rss" text="NSScreencast (free videos)"/>
+			<outline htmlUrl="http://oleb.net/blog/" title="Ole Begemann: iOS Development" xmlUrl="http://oleb.net/blog/atom.xml" type="rss" text="Ole Begemann: iOS Development"/>
+			<outline htmlUrl="http://merowing.info/" title="on Krzysztof Zabłocki" xmlUrl="http://merowing.info/index.xml" type="rss" text="on Krzysztof Zabłocki"/>
+			<outline htmlUrl="http://petersteinberger.com/" title="Peter Steinberger" xmlUrl="http://petersteinberger.com/atom.xml" type="rss" text="Peter Steinberger"/>
+			<outline htmlUrl="https://www.raywenderlich.com" title="Ray WenderlichRay Wenderlich" xmlUrl="http://feeds.feedburner.com/RayWenderlich" type="rss" text="Ray WenderlichRay Wenderlich"/>
+			<outline htmlUrl="http://mikeabdullah.net/" title="Recent blog posts | Mike Abdullah" xmlUrl="http://www.mikeabdullah.net/index.xml" type="rss" text="Recent blog posts | Mike Abdullah"/>
+			<outline htmlUrl="http://www.sicpers.info" title="Structure and Interpretation of Computer Programmers" xmlUrl="http://blog.securemacprogramming.com/feed/" type="rss" text="Structure and Interpretation of Computer Programmers"/>
+			<outline htmlUrl="http://subjc.com/" title="Subjective-C" xmlUrl="http://subjc.com/atom.xml" type="rss" text="Subjective-C"/>
+			<outline htmlUrl="http://developer.apple.com/swift/blog/" title="Swift Blog - Apple Developer" xmlUrl="https://developer.apple.com/swift/blog/news.rss" type="rss" text="Swift Blog - Apple Developer"/>
+			<outline htmlUrl="http://useyourloaf.com/blog/" title="Use Your Loaf" xmlUrl="http://useyourloaf.com/blog/rss.xml" type="rss" text="Use Your Loaf"/>
+			<outline htmlUrl="http://modocache.io" title="⌘U" xmlUrl="http://modocache.svbtle.com/feed" type="rss" text="⌘U"/>
+		</outline>
+	</body>
+</opml>
