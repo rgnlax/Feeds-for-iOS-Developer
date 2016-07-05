@@ -17,7 +17,7 @@ I am interested in Swift, Objective-C and iOS. And to be aware of every innovati
 	* Feedly - https://feedly.com
 	* Reeder - http://reederapp.com
 
-2. Get my OPML and import it!
+2. Get my [OPML](https://raw.githubusercontent.com/rgnlax/Feeds-for-iOS-Developer/master/subscriptions.opml) and import it!
  
 ##Feeds
 List of feeds:
