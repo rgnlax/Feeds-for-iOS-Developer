@@ -1,8 +1,8 @@
 ![logo](https://i.imgur.com/5mooydE.png)
 <p align="center">
 <a href="#"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
-<a href="#"><img src="https://img.shields.io/badge/version-1.0-red.svg?style=flat-square" alt="Version" /></a>
-<a href="#"><img src="https://img.shields.io/badge/feeds-40-green.svg?style=flat-square" alt="Feeds" /></a>
+<a href="#"><img src="https://img.shields.io/badge/version-1.1-red.svg?style=flat-square" alt="Version" /></a>
+<a href="#"><img src="https://img.shields.io/badge/feeds-41-green.svg?style=flat-square" alt="Feeds" /></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-iOS-3B6FFF.svg?style=flat-square" alt="Feeds" /></a>
 </p>
 
