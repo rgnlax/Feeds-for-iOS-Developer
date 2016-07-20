@@ -98,6 +98,8 @@ http://blog.securemacprogramming.com/feed/
 http://subjc.com/atom.xml
 * Swift Blog - Apple Developer
 https://developer.apple.com/swift/blog/news.rss
+* Another Swift Blog - Update every week | @onevcat
+http://en.swifter.tips/
 * Use Your Loaf
 http://useyourloaf.com/blog/rss.xml
 * ⌘U
