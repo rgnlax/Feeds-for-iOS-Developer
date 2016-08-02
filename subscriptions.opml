@@ -45,6 +45,7 @@
 			<outline htmlUrl="http://www.sicpers.info" title="Structure and Interpretation of Computer Programmers" xmlUrl="http://blog.securemacprogramming.com/feed/" type="rss" text="Structure and Interpretation of Computer Programmers"/>
 			<outline htmlUrl="http://subjc.com/" title="Subjective-C" xmlUrl="http://subjc.com/atom.xml" type="rss" text="Subjective-C"/>
 			<outline htmlUrl="http://developer.apple.com/swift/blog/" title="Swift Blog - Apple Developer" xmlUrl="https://developer.apple.com/swift/blog/news.rss" type="rss" text="Swift Blog - Apple Developer"/>
+			<outline htmlUrl="http://michalciurus.github.io" title="Swift Pearls - Articles" xmlUrl="http://swiftpearls.com/feed.xml" type="rss" text="Swift Pearls - Articles"/>
 			<outline htmlUrl="http://en.swifter.tips/" title="Swifter" xmlUrl="http://en.swifter.tips/feed.xml" type="rss" text="Swifter"/>
 			<outline htmlUrl="http://useyourloaf.com/blog/" title="Use Your Loaf" xmlUrl="http://useyourloaf.com/blog/rss.xml" type="rss" text="Use Your Loaf"/>
 			<outline htmlUrl="http://modocache.io" title="⌘U" xmlUrl="http://modocache.svbtle.com/feed" type="rss" text="⌘U"/>
