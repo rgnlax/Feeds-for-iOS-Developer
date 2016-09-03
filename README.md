@@ -1,8 +1,8 @@
 ![logo](https://i.imgur.com/5mooydE.png)
 <p align="center">
 <a href="#"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
-<a href="#"><img src="https://img.shields.io/badge/version-1.2-red.svg?style=flat-square" alt="Version" /></a>
-<a href="#"><img src="https://img.shields.io/badge/feeds-42-green.svg?style=flat-square" alt="Feeds" /></a>
+<a href="#"><img src="https://img.shields.io/badge/version-1.3-red.svg?style=flat-square" alt="Version" /></a>
+<a href="#"><img src="https://img.shields.io/badge/feeds-43-green.svg?style=flat-square" alt="Feeds" /></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-iOS-3B6FFF.svg?style=flat-square" alt="Feeds" /></a>
 </p>
 
@@ -38,6 +38,8 @@ http://adoptioncurve.net/atom.xml
 http://feeds.feedburner.com/appcoda
 * Artsy Engineering
 http://artsy.github.io/feed
+* Clean Swift
+http://clean-swift.com/feed/
 * Cocoa at Tumblr
 http://cocoa.tumblr.com/rss
 * Cocoa Controls

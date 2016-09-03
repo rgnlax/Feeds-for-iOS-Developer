@@ -15,6 +15,7 @@
 			<outline htmlUrl="http://adoptioncurve.net/" title="Adoption Curve Dot Net" xmlUrl="http://adoptioncurve.net/atom.xml" type="rss" text="Adoption Curve Dot Net"/>
 			<outline htmlUrl="http://www.appcoda.com" title="AppCoda" xmlUrl="http://feeds.feedburner.com/appcoda" type="rss" text="AppCoda"/>
 			<outline htmlUrl="http://artsy.github.io/" title="Artsy Engineering" xmlUrl="http://artsy.github.io/feed" type="rss" text="Artsy Engineering"/>
+			<outline htmlUrl="http://clean-swift.com" title="Clean Swift" xmlUrl="http://clean-swift.com/feed/" type="rss" text="Clean Swift"/>
 			<outline htmlUrl="https://cocoa.tumblr.com/" title="Cocoa at Tumblr" xmlUrl="http://cocoa.tumblr.com/rss" type="rss" text="Cocoa at Tumblr"/>
 			<outline htmlUrl="http://www.cocoacontrols.com" title="Cocoa Controls" xmlUrl="http://feeds.feedburner.com/cocoacontrols" type="rss" text="Cocoa Controls"/>
 			<outline htmlUrl="https://www.cocoanetics.com" title="Cocoanetics" xmlUrl="http://www.cocoanetics.com/feed/" type="rss" text="Cocoanetics"/>
