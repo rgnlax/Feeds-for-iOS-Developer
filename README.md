@@ -2,7 +2,7 @@
 <p align="center">
 <a href="#"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
 <a href="#"><img src="https://img.shields.io/badge/version-1.3-red.svg?style=flat-square" alt="Version" /></a>
-<a href="#"><img src="https://img.shields.io/badge/feeds-43-green.svg?style=flat-square" alt="Feeds" /></a>
+<a href="#"><img src="https://img.shields.io/badge/feeds-40-green.svg?style=flat-square" alt="Feeds" /></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-iOS-3B6FFF.svg?style=flat-square" alt="Feeds" /></a>
 </p>
 
@@ -23,91 +23,85 @@ I am interested in Swift, Objective-C and iOS. And to be aware of every innovati
 List of feeds:
 
 * Blog – Under The Bridge
-http://www.alexcurylo.com/blog/feed/
+http://www.alexcurylo.com
 * Developer Economics
-http://www.developereconomics.com/feed/
+https://www.developereconomics.com
 * Martin Fowler
-http://www.martinfowler.com/bliki/bliki.atom
-* The Responsible Designer
-http://wirfs-brock.com/blog/feed/
-* Thinking in Objects
-http://thinkinginobjects.com/feed/
+https://martinfowler.com
+* Mobile Development News, from Realm
+https://realm.io
+* The Clean Code Blog
+http://blog.cleancoder.com/
 * Adoption Curve Dot Net
-http://adoptioncurve.net/atom.xml
+http://adoptioncurve.net/
 * AppCoda
-http://feeds.feedburner.com/appcoda
+http://www.appcoda.com
 * Artsy Engineering
-http://artsy.github.io/feed
+http://artsy.github.io/
 * Clean Swift
-http://clean-swift.com/feed/
+http://clean-swift.com
 * Cocoa at Tumblr
-http://cocoa.tumblr.com/rss
+https://cocoa.tumblr.com/
 * Cocoa Controls
-http://feeds.feedburner.com/cocoacontrols
+http://www.cocoacontrols.com
 * Cocoanetics
-http://www.cocoanetics.com/feed/
+https://www.cocoanetics.com
 * Florian Kugler
-http://floriankugler.com/blog?format=rss
+http://floriankugler.com/
 * Grok Swift
-https://grokswift.com/feed
-* iOS App Development — Medium
-https://medium.com/feed/ios-os-x-development
-* iOS Apprentice — Medium
-https://medium.com/feed/ios-apprentice
+http://grokswift.com/
+* Indie iOS Focus Weekly
+https://indieiosfocus.curated.co/issues
+* iOS App Development - Medium
+https://medium.com/ios-os-x-development?source=rss----8c21b9314eea---4
 * iOS Dev Weekly
-http://iosdevweekly.com/issues.rss
-* iOS Development Tips
-http://iosdevtips.tumblr.com/rss
+http://iosdevweekly.com/issues
 * iOS Goodies
-http://ios-goodies.tumblr.com/rss
+http://ios-goodies.com/
 * iOS-Blog
-http://www.ios-blog.co.uk/feed/
-* iPhone and iPad development | Scoop.it
-http://www.scoop.it/t/iphone-and-ipad-development/rss.xml
+http://www.ios-blog.co.uk
 * JetBrains AppCode Blog
-http://feeds.feedburner.com/jetbrains_appcode
+https://blog.jetbrains.com/objc
+* Khanlou
+http://khanlou.com/
+* Krzysztof Zabłocki
+http://merowing.info/
 * Little Bites of Cocoa
-http://littlebitesofcocoa.com/rss
+https://littlebitesofcocoa.com
 * Making App Pie
-https://makeapppie.com/feed/
+https://makeapppie.com
 * Maniac Dev
-http://maniacdev.com/feed/
+https://maniacdev.com
 * Masilotti.com
-http://masilotti.com/atom.xml
-* Matt Galloway
-http://www.galloway.me.uk/atom.xml
+http://masilotti.com/
 * Natasha The Robot
-http://natashatherobot.com/feed/
+https://www.natashatherobot.com
 * NSBlog
-http://www.mikeash.com/pyblog/rss.py
+http://www.mikeash.com/pyblog/
 * NSHipster
-http://nshipster.com/feed.xml
-* NSScreencast (free videos)
-http://nsscreencast.com/feed
+http://nshipster.com
 * Ole Begemann: iOS Development
-http://oleb.net/blog/atom.xml
-* on Krzysztof Zabłocki
-http://merowing.info/index.xml
+https://oleb.net/blog/
 * Peter Steinberger
-http://petersteinberger.com/atom.xml
+http://petersteinberger.com/
 * Ray WenderlichRay Wenderlich
-http://feeds.feedburner.com/RayWenderlich
-* Recent blog posts | Mike Abdullah
-http://www.mikeabdullah.net/index.xml
+https://www.raywenderlich.com
 * Structure and Interpretation of Computer Programmers
-http://blog.securemacprogramming.com/feed/
+http://www.sicpers.info
 * Subjective-C
-http://subjc.com/atom.xml
+http://subjc.com/
 * Swift Blog - Apple Developer
-https://developer.apple.com/swift/blog/news.rss
-* Swift Pearls
-http://swiftpearls.com/feed.xml
-* Another Swift Blog - Update every week | @onevcat
+https://developer.apple.com/swift/blog/
+* Swift Pearls - Articles
+http://michalciurus.github.io
+* Swifter
 http://en.swifter.tips/
 * Use Your Loaf
-http://useyourloaf.com/blog/rss.xml
+http://useyourloaf.com/blog/rss/index.xml
 * ⌘U
-http://modocache.svbtle.com/feed
+http://modocache.io
+* MacRumors: Mac News and Rumors
+https://www.macrumors.com
 
 ##Contributing
 Pull requests are welcomed from anyone who wants to add new source feed for our community. If you know one useful source - go ahead and add it!
