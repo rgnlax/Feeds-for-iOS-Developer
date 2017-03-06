@@ -84,7 +84,7 @@ http://nshipster.com
 https://oleb.net/blog/
 * Peter Steinberger
 http://petersteinberger.com/
-* Ray WenderlichRay Wenderlich
+* Ray Wenderlich
 https://www.raywenderlich.com
 * Structure and Interpretation of Computer Programmers
 http://www.sicpers.info
