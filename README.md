@@ -6,12 +6,12 @@
 <a href="#"><img src="https://img.shields.io/badge/platform-iOS-3B6FFF.svg?style=flat-square" alt="Feeds" /></a>
 </p>
 
-##Hi Community
+## Hi Community
 My name is Max and I am an iOS developer.
 
 I am interested in Swift, Objective-C and iOS. And to be aware of every innovation in rapidly changing world of programming, you have to watch every blog about iOS. But what if don't know what you should start from? I've prepared for you a list of necessary rss feeds.
 
-##Getting started
+## Getting started
 1. Download any RSS client. I recommend to use Feedly or Reeder.
 
 	* Feedly - https://feedly.com
@@ -19,7 +19,7 @@ I am interested in Swift, Objective-C and iOS. And to be aware of every innovati
 
 2. Get my [OPML](https://raw.githubusercontent.com/rgnlax/Feeds-for-iOS-Developer/master/subscriptions.opml) and import it!
  
-##Feeds
+## Feeds
 List of feeds:
 
 * Blog – Under The Bridge
@@ -103,10 +103,10 @@ http://modocache.io
 * MacRumors: Mac News and Rumors
 https://www.macrumors.com
 
-##Contributing
+## Contributing
 Pull requests are welcomed from anyone who wants to add new source feed for our community. If you know one useful source - go ahead and add it!
 
-##License
+## License
 MIT License
 
 Copyright (c) 2016 Maxim Pedchenko All rights reserved.
