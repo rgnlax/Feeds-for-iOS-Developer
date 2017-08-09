@@ -102,6 +102,8 @@ http://useyourloaf.com/blog/rss/index.xml
 http://modocache.io
 * MacRumors: Mac News and Rumors
 https://www.macrumors.com
+* Jan Olbrich - Quality in Mobile Development
+https://medium.com/@jan_olbrich
 
 ## Contributing
 Pull requests are welcomed from anyone who wants to add new source feed for our community. If you know one useful source - go ahead and add it!
